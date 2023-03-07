@@ -1,1 +1,1 @@
-This project is about cloning git
+This project is about git commands
